@@ -7,6 +7,7 @@ scuberGreetingForFeet(distance){
       'I will gladly take your thirty bucks.'
       break;
     case distance > 2500:
+      'No can do.'
       break;
   }
 
