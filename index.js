@@ -1,4 +1,4 @@
-scuberGreetingForFeet(distance){
+function scuberGreetingForFeet(distance){
   switch (distance){
     case distance =< 400:
       'This one is on me!'
@@ -13,6 +13,6 @@ scuberGreetingForFeet(distance){
 
 }
 
-ternaryCheckCity(){}
+function ternaryCheckCity(){}
 
-switchOnCharmFromTip(){}
+function switchOnCharmFromTip(){}
